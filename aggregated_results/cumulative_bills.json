@@ -1,0 +1,26 @@
+{
+  "0484a6a3-f642-498a-a94a-2ae52934e2ff": {
+    "name": "Market",
+    "total": 0.0,
+    "earned": 0.0,
+    "penalties": 0.0,
+    "spent_total": 0.0,
+    "penalty_energy": 1.475
+  },
+  "7fd9229d-7b82-437b-b7d8-7fe9e519bf8f": {
+    "name": "Market Maker",
+    "total": 0.0,
+    "earned": 0.0,
+    "penalties": 0.0,
+    "spent_total": 0.0,
+    "penalty_energy": 0.0
+  },
+  "8b743e12-6acd-4a57-afd8-474101aaab63": {
+    "name": "PV",
+    "total": 0.0,
+    "earned": 0.0,
+    "penalties": 0.0,
+    "spent_total": 0.0,
+    "penalty_energy": 1.475
+  }
+}

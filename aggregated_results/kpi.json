@@ -1,0 +1,17 @@
+{
+  "0484a6a3-f642-498a-a94a-2ae52934e2ff": {
+    "d3a_cost": 0.0,
+    "base_case_cost": 0.0,
+    "saving_absolute": 0.0,
+    "self_consumption": 0.0,
+    "self_sufficiency": 0.0,
+    "saving_percentage": 0.0,
+    "demanded_buffer_wh": 0,
+    "total_energy_demanded_wh": 0,
+    "total_energy_produced_wh": 0,
+    "total_self_consumption_wh": 0,
+    "self_consumption_buffer_wh": 0
+  },
+  "7fd9229d-7b82-437b-b7d8-7fe9e519bf8f": {},
+  "8b743e12-6acd-4a57-afd8-474101aaab63": {}
+}

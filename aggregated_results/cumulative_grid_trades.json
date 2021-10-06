@@ -1,0 +1,28 @@
+{
+  "0484a6a3-f642-498a-a94a-2ae52934e2ff": [
+    {
+      "areaName": "Market Maker",
+      "bars": []
+    },
+    {
+      "areaName": "PV",
+      "bars": []
+    },
+    {
+      "areaName": "External Trades",
+      "bars": []
+    }
+  ],
+  "7fd9229d-7b82-437b-b7d8-7fe9e519bf8f": [
+    {
+      "areaName": "External Trades",
+      "bars": []
+    }
+  ],
+  "8b743e12-6acd-4a57-afd8-474101aaab63": [
+    {
+      "areaName": "External Trades",
+      "bars": []
+    }
+  ]
+}

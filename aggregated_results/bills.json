@@ -1,0 +1,80 @@
+{
+  "0484a6a3-f642-498a-a94a-2ae52934e2ff": {
+    "PV": {
+      "sold": 0.0,
+      "type": "PV",
+      "spent": 0.0,
+      "bought": 0.0,
+      "earned": 0.0,
+      "market_fee": 0.0,
+      "total_cost": 0.0,
+      "total_energy": 0.0
+    },
+    "Totals": {
+      "sold": 0.0,
+      "spent": 0.0,
+      "bought": 0.0,
+      "earned": 0.0,
+      "market_fee": 0.0,
+      "total_cost": 0.0,
+      "total_energy": 0.0
+    },
+    "Market Fees": {
+      "sold": 0,
+      "spent": 0,
+      "bought": 0,
+      "earned": 0.0,
+      "market_fee": 0,
+      "total_cost": 0.0,
+      "total_energy": 0
+    },
+    "Market Maker": {
+      "sold": 0.0,
+      "type": "MarketMaker",
+      "spent": 0.0,
+      "bought": 0.0,
+      "earned": 0.0,
+      "market_fee": 0.0,
+      "total_cost": 0.0,
+      "total_energy": 0.0
+    },
+    "External Trades": {
+      "sold": 0.0,
+      "spent": 0.0,
+      "bought": 0.0,
+      "earned": 0.0,
+      "market_fee": 0.0,
+      "total_cost": 0.0,
+      "total_energy": 0.0
+    },
+    "Accumulated Trades": {
+      "sold": 0.0,
+      "spent": 0.0,
+      "bought": 0.0,
+      "earned": 0.0,
+      "market_fee": 0.0,
+      "total_cost": 0.0,
+      "total_energy": 0.0
+    }
+  },
+  "7fd9229d-7b82-437b-b7d8-7fe9e519bf8f": {
+    "sold": 0.0,
+    "type": "MarketMaker",
+    "spent": 0.0,
+    "bought": 0.0,
+    "earned": 0.0,
+    "market_fee": 0.0,
+    "total_cost": 0.0,
+    "total_energy": 0.0
+  },
+  "8b743e12-6acd-4a57-afd8-474101aaab63": {
+    "sold": 0.0,
+    "type": "PV",
+    "spent": 0.0,
+    "bought": 0.0,
+    "earned": 0.0,
+    "market_fee": 0.0,
+    "total_cost": 0.0,
+    "total_energy": 0.0
+  }
+}
